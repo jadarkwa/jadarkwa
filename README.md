@@ -1,4 +1,3 @@
-### Hi there 👋
 - 👋 Hi, my name is Jude Adarkwa
 - 📚 I am a student at the University of Michigan Studying Computer Science
 - 💻 I am interested in...
