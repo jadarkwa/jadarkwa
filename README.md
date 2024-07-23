@@ -2,9 +2,9 @@
 <h3 align="left">Hi 👋, I'm Jude Adarkwa</h3>
 <h3 align="left">📚 I am a student at the University of Michigan studying Computer Science</h3>
 <h3 align="left">💻 I am interested in…</h3>
-<h3 align="left">  📲 Web & Application Development</h3>
-<h3 align="left">  ☁️ Cloud Computing</h3>
-<h3 align="left">  🤖 Artificial Intelligence & Machine Learning</h3>
+<h3 align="left">  -📲 Web & Application Development</h3>
+<h3 align="left">  -☁️ Cloud Computing</h3>
+<h3 align="left">  -🤖 Artificial Intelligence & Machine Learning</h3>
 
 
 
